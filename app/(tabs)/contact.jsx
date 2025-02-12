@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet, ImageBackground } from 'react-native'
 import React from 'react'
-import icedCofeeImg from '../../assets/images/iced-coffee.png'
+import icedCofeeImg from '@/assets/images/iced-coffee.png'
 
 const Explore = () => {
   return (
